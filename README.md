@@ -12,4 +12,8 @@ Sample website with plenty of files for demos
 
 ## deployment
 
+this is somehting related to copy right
+
 ## how to contribute
+
+simple try
