@@ -16,4 +16,4 @@ this is somehting related to copy right
 
 ## how to contribute
 
-simple try
+forke it and then clone and pull and push
