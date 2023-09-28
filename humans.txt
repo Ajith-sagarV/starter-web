@@ -7,7 +7,7 @@
 
 # THANKS
 
-    <name>
+    udemy
 
 # TECHNOLOGY COLOPHON
 
