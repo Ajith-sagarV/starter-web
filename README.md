@@ -20,3 +20,7 @@ this is somehting related to copy right
 ## how to contribute
 
 forke it and then clone and pull and push
+
+### god level
+
+psuh
