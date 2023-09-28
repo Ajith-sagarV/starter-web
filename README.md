@@ -3,8 +3,6 @@
 This repository is for showing how Git and GitHub work
 
 rebasing example
-
-merging example
 ## introduction
 
 trying to learn git and github 
@@ -21,6 +19,4 @@ this is somehting related to copy right
 
 forke it and then clone and pull and push
 
-### god level
-
-psuh
+#### ghost
