@@ -24,3 +24,7 @@ forke it and then clone and pull and push
 ### god level
 
 psuh
+
+## copy right 
+
+somthing 
