@@ -3,7 +3,7 @@
 This repository is for showing how Git and GitHub work
 
 rebasing example
-
+now to the stashing 
 merging example
 ## introduction
 
