@@ -7,7 +7,7 @@
 
 # THANKS
 
-    udemy
+    udemy stash
 
 # TECHNOLOGY COLOPHON
 
